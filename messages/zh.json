@@ -1,0 +1,58 @@
+{
+  "HomePage": {
+    "title": "你好欢迎使用 Next.js + shadcn/ui + tRPC",
+    "description": "这是一个使用 Tailwind CSS、shadcn/ui、tRPC 和 env-nextjs 的启动模板。",
+    "trpcTest": {
+      "title": "tRPC + env-nextl 测试",
+      "description": "点击按钮测试带有环境变量的 tRPC API"
+    },
+    "greeting": "问候",
+    "appUrl": "应用地址",
+    "envInfo": "环境信息",
+    "nodeEnv": "运行环境",
+    "testButton": "测试 API"
+  },
+  "Theme": {
+    "switching": "主题切换",
+    "description": "点击右上角按钮切换主题",
+    "support": "支持浅色、深色和系统偏好。"
+  },
+  "Components": {
+    "title": "shadcn/ui 组件",
+    "description": "美观且可访问的组件",
+    "default": "默认",
+    "secondary": "次要",
+    "outline": "轮廓"
+  },
+  "Login": {
+    "title": "登录到您的账户",
+    "description": "请输入您的邮箱地址登录到您的账户",
+    "email": "邮箱",
+    "emailPlaceholder": "m@example.com",
+    "password": "密码",
+    "forgotPassword": "忘记密码？",
+    "submit": "登录",
+    "orContinueWith": "或者使用以下方式继续",
+    "loginWithGithub": "使用 GitHub 登录",
+    "noAccount": "还没有账户？",
+    "signUp": "注册"
+  },
+  "Signup": {
+    "title": "创建您的账户",
+    "description": "请填写以下表单以创建您的账户",
+    "name": "姓名",
+    "namePlaceholder": "张三",
+    "email": "邮箱",
+    "emailPlaceholder": "m@example.com",
+    "emailDescription": "我们将使用此邮箱与您联系。我们不会与任何人分享您的邮箱。",
+    "password": "密码",
+    "passwordDescription": "密码必须至少8个字符。",
+    "confirmPassword": "确认密码",
+    "confirmPasswordDescription": "请确认您的密码。",
+    "submit": "创建账户",
+    "orContinueWith": "或者使用以下方式继续",
+    "signupWithGithub": "使用 GitHub 注册",
+    "hasAccount": "已有账户？",
+    "signIn": "登录"
+  }
+}

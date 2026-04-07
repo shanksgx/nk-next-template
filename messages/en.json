@@ -1,0 +1,58 @@
+{
+  "HomePage": {
+    "title": "Hello Welcome to Next.js + shadcn/ui + tRPC",
+    "description": "This is a starter template with Tailwind CSS, shadcn/ui, tRPC, and env-nextjs.",
+    "trpcTest": {
+      "title": "tRPC + env-nextjs Test",
+      "description": "Click the button to test the tRPC API with environment variables"
+    },
+    "greeting": "Greeting",
+    "appUrl": "App URL",
+    "envInfo": "Environment Info",
+    "nodeEnv": "Node Env",
+    "testButton": "Test API"
+  },
+  "Theme": {
+    "switching": "Theme Switching",
+    "description": "Click the button in the top right to toggle themes",
+    "support": "Supports light, dark, and system preferences."
+  },
+  "Components": {
+    "title": "shadcn/ui Components",
+    "description": "Beautiful, accessible components",
+    "default": "Default",
+    "secondary": "Secondary",
+    "outline": "Outline"
+  },
+  "Login": {
+    "title": "Login to your account",
+    "description": "Enter your email below to login to your account",
+    "email": "Email",
+    "emailPlaceholder": "m@example.com",
+    "password": "Password",
+    "forgotPassword": "Forgot your password?",
+    "submit": "Login",
+    "orContinueWith": "Or continue with",
+    "loginWithGithub": "Login with GitHub",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up"
+  },
+  "Signup": {
+    "title": "Create your account",
+    "description": "Fill in the form below to create your account",
+    "name": "Full Name",
+    "namePlaceholder": "John Doe",
+    "email": "Email",
+    "emailPlaceholder": "m@example.com",
+    "emailDescription": "We'll use this to contact you. We will not share your email with anyone else.",
+    "password": "Password",
+    "passwordDescription": "Must be at least 8 characters long.",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordDescription": "Please confirm your password.",
+    "submit": "Create Account",
+    "orContinueWith": "Or continue with",
+    "signupWithGithub": "Sign up with GitHub",
+    "hasAccount": "Already have an account?",
+    "signIn": "Sign in"
+  }
+}

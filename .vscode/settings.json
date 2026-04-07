@@ -1,0 +1,28 @@
+{
+  "oxc.fmt.configPath": ".oxfmtrc.json",
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "oxc.oxc-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "oxc.oxc-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "oxc.oxc-vscode"
+  },
+  "files.exclude": {
+    "**/node_modules": false,
+    "**/.next": false,
+    "**/dist": false,
+    "**/build": false
+  },
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    "package.json": ".hintrc, commitlint.config.*, .oxfmtrc.*, opencode.*, pnpm-lock.yaml, .npmrc, .nvmrc, .node-version, tsconfig.json, .gitignore, components.json, postcss.config.mjs,eslint.config.*, next-env.d.ts"
+  }
+}
