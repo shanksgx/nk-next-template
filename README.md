@@ -1,6 +1,6 @@
 # NK Next Template
 
-基于 Next.js 的开发模板，由 [nextKind](https://github.com/nextkind) 创建。
+基于 Next.js 的开发模板，由 [nextKind](https://gitcode.com/nextkind) 创建。
 
 ## 安装
 

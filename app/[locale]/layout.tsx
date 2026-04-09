@@ -8,6 +8,7 @@ import type { ReactNode } from 'react'
 import { Geist, Geist_Mono } from 'next/font/google'
 import { TooltipProvider } from '@/components/ui/tooltip'
 import { Metadata } from 'next'
+import { Analytics } from '@vercel/analytics/react'
 import '../globals.css'
 
 export const metadata: Metadata = {
@@ -65,6 +66,7 @@ export default async function LocaleLayout({
             </TRPCProvider>
           </ThemeProvider>
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   )
